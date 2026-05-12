@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jeremytrane/Documents/GitHub/kernel-security/Advanced C Programming Pointers/MultipleIndirectionStrings/main'
+relocations:     []
+...
